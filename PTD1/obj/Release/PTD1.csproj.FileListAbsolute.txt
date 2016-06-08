@@ -1,0 +1,12 @@
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\bin\Release\PTD1.exe.config
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\obj\Release\PTD1.exe
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\obj\Release\PTD1.pdb
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\bin\Release\PTD1.exe
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\bin\Release\PTD1.pdb
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\bin\Release\fftwlib.dll
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\obj\Release\PTD1.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\obj\Release\PTD1.EditingWindow.resources
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\obj\Release\PTD1.Form1.resources
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\obj\Release\PTD1.Properties.Resources.resources
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\obj\Release\PTD1.SignalEditingControl.resources
+C:\Users\Piotr\Documents\Visual Studio 2012\Projects\PTD1\PTD1\PTD1\obj\Release\PTD1.csproj.GenerateResource.Cache
